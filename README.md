@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Itaú
+- 🔭 I’m currently working on Itaú Unibanco
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking to collaborate on open-source
 - 💬 Ask me about test of software quality
